@@ -28,7 +28,7 @@ function ToDoSecondPages() {
       <TitleInput />
       <Container
         className="square border rounded"
-        style={{ backgroundColor: "#333" }}
+        style={{ backgroundColor: "#fff" }}
       >
         <Row className="mx-3 mt-4">
           <Col>
