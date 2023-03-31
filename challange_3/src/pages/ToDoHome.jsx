@@ -79,7 +79,6 @@ function ToDoHome() {
     });
     setToDo(newData);
   };
-
   return (
     <>
       <TitleSearch />
