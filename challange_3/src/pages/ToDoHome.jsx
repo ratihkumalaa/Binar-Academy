@@ -85,7 +85,7 @@ function ToDoHome() {
       <TitleSearch />
       <Container
         className="square border rounded"
-        style={{ backgroundColor: "#333" }}
+        style={{ backgroundColor: "#fff" }}
       >
         <Row className="mx-3 mt-4">
           <Col lg={6}>
@@ -109,7 +109,7 @@ function ToDoHome() {
       <TitleList />
       <Container
         className="square border rounded"
-        style={{ backgroundColor: "#333" }}
+        style={{ backgroundColor: "#fff" }}
       >
         <Row className="mx-3 my-4">
           <Col>
